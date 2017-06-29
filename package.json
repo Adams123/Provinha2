@@ -1,0 +1,13 @@
+{
+  "name": "provinha2",
+  "version": "1.0.0",
+  "main": "main.js",
+  "author": "Adams Vietro Codignotto da Silva 6791943 <adamsvcs@gmail.com>",
+  "dependencies": {
+    "express": "^4.15.3",
+    "fs": "0.0.1-security"
+  },
+  "scripts":{
+	"start":"node main.js"
+  }
+}
